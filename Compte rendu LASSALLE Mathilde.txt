@@ -1,0 +1,34 @@
+# Rendu Carte
+#### Lassalle Mathilde
+
+### Téléchargement fonds de carte
+J'ai d'abord téléchargé un fond de carte de l'ensemble du globe sur [Natural Earth](https://www.naturalearthdata.com/downloads/). J'ai ensuite rajouté les frontières actuelles des pays. J'ai ensuite rajouté les rivières et les mers en utilisant toujours [Natural Earth](https://www.naturalearthdata.com/downloads/). 
+
+### Création du tableur
+J'ai créé ensuite un tableur avec les colonnes suivantes avec les coordonnées données par Google Earth :
+| Cité      | Fondateur         | Latitude  | Longitude |
+| ------------- |:-------------:| :-----:| :-----:|
+| Ptolémaïs    | Lagide | 26,29 | 31,48 |
+| Ptolémaïs   | Lagide     |   32,42 | 20,57 |
+| Ptolémaïs Akko | Inconnus     |    32,5516 | 35,0408 |
+| Arsinoé | Lagide | 26,2414 | 34,0636 |
+| Arsinoé Crocodilopolis | Egyptienne | 29,07 | 30,45 |
+| Arsinoé | Lagide | 35,0375 | 32,4333 |
+| Béréniké Panchrysos | Lagide | 21,565 | 35,0823 |
+| Béréniké Troglodytiké | Lagide | 23,5431 | 35,2821 |
+
+### Création de la carte
+J'ai ensuite suivit les indications données dans le guide d'utilisation d'un logiel SIG comme pendant le cours.
+Pour m'assurer que les points étaient bien placer, j'ai utilisé [l'_Atlas du monde héllénistique, 336-31 av. J.-C. : pouvoir et territoires après Alexandre le Grand_](https://www-numeriquepremium-com.ezproxy.u-bordeaux-montaigne.fr/doi/book/10.14375/NP.9782746746398) de Laurianne Martinez-Sève réédité pour la troisième fois en 2017.
+J'ai mis les mers et les rivières en bleu car on mets toujours l'eau en bleu. Ayant mis la surface en vers, j'ai choisis de mettre les points en rouge pour une question de visibilité. J'ai également mis les noms des cités en noir pour qu'ils soient lisibles sur le fond de carte. J'ai utilisé un fond de carte sans relief pour que les points soient plus visibles.
+Une fois la vérification de l'emplacement des points faites, j'ai rajouté les étiquettes avec le nom des cités pour pouvoir les identifier plus facilement.
+
+### Création de la mise en page
+J'ai ensuite procédé à la création de la mise en page en ajoutant un titre, une légende et une échelle. J'ai également rajouté une flèche pour indiquer le Nord. J'ai rajouté une échelle pour que l'on puisse se rendre compte de la distance entre les différentes cités. J'ai également rajouté une légende pour expliquer ce que représente chaque couleur. J'ai mis le titre sous la carte et la légende sur la droite. J'ai mis l'échelle en bas à gauche et la flèche du Nord en bas à droite. J'ai ensuite télécharger la carte en PDF.
+
+### Difficcultés rencontrées
+J'avais prévu plus de points en incluant les fondations et refondations séleucides Cependant, à partir d'une certaine latitude, les points n'été plus au bon endroit. Par example, certaines cités du sud de la Turquie actuelle se retrouvaient dans le centre du pays au lieu d'être sur la côte. D'autres se retouvaient en plein milieu de la mer noir. J'ai donc décidé de ne pas les inclure dans la carte.
+Pour un raison inconnus, je n'arrive pas à ajouter les différentes captures d'écran à ce dossier. 
+
+## Lien avec le sujet de mémoire
+J'ai choisis d'illuster ces endroits car cela me permets de monter la tradition de donner le nom d'un pharaon ou de son épouse lors de la création ou de la refondation d'un cité.
